@@ -17,11 +17,24 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#000000"
+      },
+      "icon": "./assets/icon.png",
+      "package": "com.fabio24.mdztech",
+      "config":	{
+        "googleMaps": {
+          "apiKey": "AIzaSyDjWgFvL_Ttc_R6RSfS8HCalEL4MTLZSaU"
+        }
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7f8f1252-ca74-4b1e-a9d3-65435bfc390e"
+      }
+    },
+    "owner": "fabio24"
   }
 }
