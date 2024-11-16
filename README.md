@@ -24,8 +24,8 @@ MDZ-Tech es una aplicación de e-commerce desarrollada con React Native y Expo. 
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/mdz-tech.git
-    cd mdz-tech
+    git clone https://github.com/XxFabio24xX/MDZTech-App
+    cd MDZTech-App
     ```
 
 2. Instala las dependencias:
