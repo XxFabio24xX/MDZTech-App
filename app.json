@@ -17,11 +17,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000000"
+        "backgroundColor": "#ffffff"
       },
       "icon": "./assets/icon.png",
       "package": "com.fabio24.mdztech",
-      "config":	{
+      "config": {
         "googleMaps": {
           "apiKey": "AIzaSyDjWgFvL_Ttc_R6RSfS8HCalEL4MTLZSaU"
         }
@@ -30,11 +30,11 @@
     "plugins": [
       "expo-font"
     ],
+    "owner": "fabio24",
     "extra": {
       "eas": {
-        "projectId": "7f8f1252-ca74-4b1e-a9d3-65435bfc390e"
+        "projectId": "756d452d-ec25-4869-9203-d1b4514820ec"
       }
-    },
-    "owner": "fabio24"
+    }
   }
 }
